@@ -1,3 +1,4 @@
 # skripsi-atepsut
 
-pada file ini berisi pdf laporan skripsi dan aplikasi penjadwalan 
+1. pdf laporan skripsi
+2. aplikasi penjadwalan dengan php versi 7.3.2
